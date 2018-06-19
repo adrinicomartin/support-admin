@@ -54,7 +54,7 @@
         { icon: 'timeline', title: 'Metrics', to: '/metrics' },
         { icon: 'lock_open', title: 'Login', to: '/user/login' }
       ],
-      title: 'Support Control Panel'
+      title: 'Support - Control Panel'
     })
   }
 </script>
